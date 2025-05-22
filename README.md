@@ -1,3 +1,22 @@
+# 🧠 Memory Flip Game
+
+Bu uygulama React Native (Expo) kullanılarak geliştirilmiş eğlenceli bir hafıza kartı eşleştirme oyunudur.
+
+## 🚀 Özellikler
+
+- Flip animasyonlu kartlar 🎴
+- Zamanlayıcı ⏱️
+- Hamle sayacı 🔁
+- Yeniden başlatma özelliği 🔄
+- Responsive & modern tasarım 🌈
+
+## 📦 Kurulum
+
+```bash
+git clone https://github.com/1furkankaya/memory-flip-game.git
+cd memory-flip-game
+npm install
+npx expo start
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
